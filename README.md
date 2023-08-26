@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me Discord (BadBadBoss#0001)
+- 📫 How to reach me Discord (BadBadBoss)
 
 <!---
 BadBadBoss/BadBadBoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
